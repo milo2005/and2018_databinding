@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Databinding</string>
+    <string-array name="categories">
+        <item>Misterio</item>
+        <item>Fantasia</item>
+        <item>Terror</item>
+    </string-array>
+
+    <string name="author">Anonimo</string>
+
+</resources>
